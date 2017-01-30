@@ -1,0 +1,34 @@
+body {
+	background-color: #353537;
+	font-family: 'Alex Brush', cursive;
+	font-size: 40px;
+	text-align: center;
+	color: pink;
+}
+
+.intro {
+	color: purple;
+	text-align: center;
+	font-family: 'Alex Brush', cursive;
+	font-size: 35px;
+}
+
+.image1 {
+	width: 20px;
+}
+
+.image2 {
+	width: 50px;
+}
+
+.image3 {
+	width: 50px;
+}
+
+.image4 {
+	width: 50px;
+}
+
+.image5 {
+	width: 50px;
+}

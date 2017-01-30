@@ -1,0 +1,74 @@
+body {
+	background-image: url("https://static1.squarespace.com/static/51c748abe4b0c275d0aa86bf/55f96e21e4b0f86680e762dc/56142062e4b018c045503a73/1444159640457/OZ-MASTER-with-Color9801.gif");
+	font-family: 'Sacramento', cursive;
+	font-size: 40px;
+	text-align: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+h1 { 
+	color: grey;
+
+}
+
+.thekcbox {
+	color: white;
+	font-size: 220px;
+	font-family:'Alex Brush', cursive;
+
+}
+
+.intro {
+	color: white;
+	text-align: center;
+	font-family: 'Sacramento', cursive;
+	font-size: 30px;
+}
+
+.sustainable {
+	color: #0B3B0B;
+	font-family: 'Sacramento', cursive;
+	font-size: 30px;
+}
+
+.form {
+	color: white;
+	text-align: center;
+	font-family: 'Sacramento', cursive;
+	font-size: 35px;
+
+}
+
+.enter {
+	color: purple;
+	text-align: center;
+	font-family: 'Sacramento', cursive;
+	font-size: 40px;
+}
+
+.formK {
+	color: white;
+	text-align: center;
+	font-family: 'Alex Brush', cursive;
+}
+
+.formC {
+	color: white;
+	text-align: center;
+	font-family: 'Alex Brush', cursive;
+}
+
+.list {
+	color: white;
+	font-family:'Press Start 2P', cursive;
+	font-size: 35px;
+}
+
+.submit {
+	color: pink;
+	font-family: 'Sacramento', cursive;
+	padding: 20px;
+	font-size: 45px;
+	background-color: #353537;
+}
